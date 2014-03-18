@@ -1,4 +1,7 @@
-everybodyHatesMrOwl
+Everybody Hates Mr Owl
 ===================
 
-2d Java game based on Slick2d game library
+Java game built with Slick2d game library.
+
+## Screenshot
+![Screenshot](https://raw.github.com/nyholmniklas/everybodyHatesMrOwl/master/doc/screenshot.jpg)
